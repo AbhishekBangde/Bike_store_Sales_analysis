@@ -20,7 +20,7 @@ The analysis is conducted using SQL queries that join multiple tables in the dat
 **Project Structure**
 SQL Queries: This folder contains the SQL scripts used to perform the analysis.
 README.md: Overview of the project and instructions on how to use the repository.
-Data: This folder would typically contain sample data or instructions on where to find the dataset. (Note: Actual data may not be included due to privacy or licensing issues.)
+Data: Database SQL File
 
 
 **Getting Started**
