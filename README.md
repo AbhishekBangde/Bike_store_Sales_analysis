@@ -21,6 +21,7 @@ The analysis is conducted using SQL queries that join multiple tables in the dat
 - **README.md**: Overview of the project and instructions on how to use the repository.
 - **Bike Store Relational Database  SQL file**: SQL File containing SQL codes.
 - **Bike Store Sales Analysis pdf**: pdf File containing project presentation.
+- **Bike Store Sales Analysis dashboard image**: image File containing dashboard.
 
 ## Getting Started
 ### Prerequisites
